@@ -34,7 +34,7 @@ If at their spawn point, players can choose to buy an item. As a player can only
 
 - If a player is standing on their spawn point by the end of a turn, they will automatically heal for 3hp.  
 
-- When a player’s health drops to zero, they die and respawn RESPAWN_TIMER turns later at their spawn point. They will be immune for GRACE_PERIOD turns. Additionally, a player will lose their currently held item upon death.
+- When a player’s health drops to zero, they die and respawn at their spawn point. A player will lose their currently held item upon death.
 
 ## The Ballroom 
 The place you make history is the ballroom at the royal palace. The map is a square grid of 10x10 tiles. In the middle is the control point. At the four corners are the doors (spawn points) to the banquet hall.
