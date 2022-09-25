@@ -86,7 +86,7 @@ For the competition, you’ll need to have the following things installed:
 
 - Python 3. This is one of the languages you can use to implement your bot.
 
-- Java 8. This will allow you to run the game engine locally, so you can test your code before you push it.
+- Java 11. This will allow you to run the game engine locally, so you can test your code before you push it.
 
 - [Node.js](https://nodejs.org/en/), (version 18.9+). Once you have that installed, try running `npm i -g mechmania`. The package can be found [here](https://www.npmjs.com/package/mm28), and when you’re able to run `mm28 help`, you know you'll have downloaded it correctly. From there, you can register a team by doing `mm register`. We ask that you only register once per team.
 
