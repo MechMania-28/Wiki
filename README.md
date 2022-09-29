@@ -49,7 +49,7 @@ Players earn points in two ways:
 - 2 Points for ending a turn on the control point
 - 1 Point for dealing fatal damage to another player  
    
-The game ends in MAX_TURN turns. At the end of the game, the victor is decided by whomever holds the most points. If there is a tie between 2 or more players, the one who holds the most gold wins. If there is a tie in gold, the winner shall be decided by a coin flip.  
+The game ends in 50 turns. At the end of the game, the victor is decided by whomever holds the most points. If there is a tie between 2 or more players, the one who holds the most gold wins. If there is a tie in gold, the winner shall be decided by a coin flip.  
 
 ## Classes
 Each class plays to a different style to dominate the Ballroom. There are 4 different stats for a class. **ALL** distances use Chebyshev distance.  
