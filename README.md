@@ -39,6 +39,8 @@ If at their spawn point, players can choose to buy an item. As a player can only
 ## The Ballroom 
 The place you make history is the ballroom at the royal palace. The map is a square grid of 10x10 tiles. In the middle is the control point. At the four corners are the doors (spawn points) to the banquet hall.
 
+![mm28field](https://user-images.githubusercontent.com/60795673/192921124-bf5f917f-f3cf-4431-b0a7-027f767e3d80.png)   
+
 ## The Control Point 
 The control point is a 2x2 set of control tiles in the middle of the ballroom. When a player ends a turn in one of the control tiles, they earn 2 points towards their score. Multiple players are allowed on the control tiles, but do you _really_ trust them?
 
@@ -57,15 +59,18 @@ Each class plays to a different style to dominate the Ballroom. There are 4 diff
 - Speed: The distance a player can move in a single turn  
 - Range: The distance a player's attack can reach  
 
-| Class  | Health | Damage | Speed | Range |  
-|--------|--------|--------|-------|-------|
-| Knight | 9      | 6      | 2     | 1     | 
-| Wizard | 6      | 4      | 3     | 2     |  
-| Archer | 3      | 2      | 4     | 3     |
+| Class  | Health | Damage | Speed | Range |       |  
+|--------|--------|--------|-------|-------|-------|
+| Knight | 9      | 6      | 2     | 1     |  ![redKnightAttack](https://user-images.githubusercontent.com/60795673/192919558-6ab0eebc-bf19-4c16-ade3-27bf91b9fcb6.gif) |
+| Wizard | 6      | 4      | 3     | 2     |  ![redWizardAttack](https://user-images.githubusercontent.com/60795673/192919959-77e5302f-532c-4f94-88b2-d9e74d356060.gif) |
+| Archer | 3      | 2      | 4     | 3     |  ![redArcherAttack](https://user-images.githubusercontent.com/60795673/192920145-60a8f18e-0ba7-4537-aa14-a06c8b7ffbcf.gif) |
+
 
 ## Items
 Items may be purchased with gold at a player's spawn location and provides buffs and effects to assist in battle. Only one item can be held at any time. Upon dying, the player will lose any item held at the time.  
 - At the end of every turn, all players automatically earn 1 gold.  
+
+ ![KnightItemUse](https://user-images.githubusercontent.com/60795673/192920719-02e63694-2ea0-4567-b466-b200a191f434.gif) ![WizardItemUse](https://user-images.githubusercontent.com/60795673/192920733-cdb7dee2-9a15-49e9-9a61-4119cddeee68.gif) ![ArcherItemUse](https://user-images.githubusercontent.com/60795673/192920743-6f099047-49bf-4286-9285-a3c9f6a03968.gif)  
 
 | Item                         | Attributes                                                                                                                                | Cost | Description                                                                                                                                      |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------|
