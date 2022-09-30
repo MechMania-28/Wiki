@@ -1,4 +1,4 @@
-This visualizer is how you will convert the JSONs produced by your bots and the engine into something actually interpretable by you. You don't have to use it, but you would probably be making this competition significantly harder for yourself if you don't. So please, familiarize yourself with the basic guidelines.
+The visualizer is how you will convert the JSONs produced by your bots and the engine into something more easily interpretable by you. You don't have to use it, but you would probably be making this competition significantly harder for yourself if you don't. So please, familiarize yourself with the basic guidelines.
 
 ## Contents
 - [The Labelled Basics](#the-labelled-basics)  
@@ -17,7 +17,7 @@ If your gamelog is valid, after a brief loading period, you will see something l
 2. This is the bot in the corresponding colored panel.
 3. From left to right, these icons display the bots' coins, attack, range, and speed.
 4. This is where held items will be. Note that permanent items will give their bonus while held in this slot.
-5. This is where temporary items that have been used previously and are currently in effect are displayed. While under the effect of a temporary item, this area will also display how many turns the effect has left.
+5. This is where temporary items that have been used previously and are currently in effect are displayed. While under the effect of a temporary item, this area will also display how many turns the effect has left. Note that shields are a special case, and will not be displayed in this section even when active.
 6. This is the turn counter.
 7. Drag along this timeline to look at a different point in time.
 
@@ -28,11 +28,9 @@ If your gamelog is valid, after a brief loading period, you will see something l
 <img width="46" alt="image" src="https://user-images.githubusercontent.com/90988235/193193954-7a89602c-aedc-4cba-9a84-43a282579275.png">
 This bot has died. Don't worry, they'll be alive and well back at their base next turn.
 
-
 #### Purchasing
 <img width="46" alt="image" src="https://user-images.githubusercontent.com/90988235/193194543-d058e75d-e18f-4f74-ad2a-060b186f1f6c.png">
 This bot is buying an item. What good are coins if you don't spend them?
-
 
 #### Using an Item
 <img width="44" alt="image" src="https://user-images.githubusercontent.com/90988235/193194727-90ca78a9-78fa-4057-813c-bc9ff7b10c35.png">
@@ -50,7 +48,7 @@ This bubble and this icon in the health bar indicates that this bot is currently
 
 #### Healing
 <img width="52" alt="image" src="https://user-images.githubusercontent.com/90988235/193193841-2f62428f-ba26-41a7-b592-9ac5d071ac9c.png">
-This aura means this bot is currently healing as a result of standing inside their base.
+This aura means this bot is currently healing as a result of standing inside their base. Note that the bots will still appear to heal even when already at full health.
 
 #### Crashed
 <img width="40" alt="image" src="https://user-images.githubusercontent.com/90988235/193194130-25713069-16fc-409f-b90e-83dcf9dc50ef.png">
