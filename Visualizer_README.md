@@ -1,4 +1,4 @@
-This visualizer is how you will convert the jsons produced by your bots and the engine into something actually interpretable by you. You don't have to use it, but you would probably be making this competition significantly harder for yourself if you don't. So, please familiarize yourself with the basic guidelines.
+This visualizer is how you will convert the JSONs produced by your bots and the engine into something actually interpretable by you. You don't have to use it, but you would probably be making this competition significantly harder for yourself if you don't. So please, familiarize yourself with the basic guidelines.
 
 ## Contents
 - [The Labelled Basics](#the-labelled-basics)  
