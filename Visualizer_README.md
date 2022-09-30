@@ -10,8 +10,8 @@ This visualizer is how you will convert the JSONs produced by your bots and the 
 When you first open the visualizer, it will look something like this. Just click the center button which is labelled "Upload file" to upload your gamelog.
 If your gamelog is valid, after a brief loading period, you will see something like this:
 
+![Qdgcr1664519223](https://user-images.githubusercontent.com/90988235/193197392-d5a93c12-870c-4d71-8741-ee447b166708.png)
 
-![CAdNs1664516941](https://user-images.githubusercontent.com/90988235/193193150-71851cfc-3c92-4bb6-817d-0274cee660f9.png)
 **Important parts labelled:**
 1. This is the name of the bot displayed in the panel.
 2. This is the bot in the corresponding colored panel.
@@ -31,7 +31,7 @@ This bot has died. Don't worry, they'll be alive and well back at their base nex
 
 #### Purchasing
 <img width="46" alt="image" src="https://user-images.githubusercontent.com/90988235/193194543-d058e75d-e18f-4f74-ad2a-060b186f1f6c.png">
-This bot is buying an item. What good is money if you don't spend it?
+This bot is buying an item. What good are coins if you don't spend them?
 
 
 #### Using an Item
