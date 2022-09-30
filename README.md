@@ -16,6 +16,8 @@ Success! You’ve infiltrated the coronation ball for the new King Azimuth in or
 Ballroom Blitz is a free for all, “King of the Hill” game. The goal is to earn as many points as possible before the game ends. Earn points through controlling the center and defeating others. There will be 4 players in a game and only one winner.
 
 MechMania 28 will be a Swiss-system tournament.  
+   
+
 
 ---
 
@@ -67,8 +69,7 @@ Each class plays to a different style to dominate the Ballroom. There are 4 diff
 | Wizard | 6      | 4      | 3     | 2     |  ![redWizardAttack](https://user-images.githubusercontent.com/60795673/192919959-77e5302f-532c-4f94-88b2-d9e74d356060.gif) |
 | Archer | 3      | 2      | 4     | 3     |  ![redArcherAttack](https://user-images.githubusercontent.com/60795673/192920145-60a8f18e-0ba7-4537-aa14-a06c8b7ffbcf.gif) |
 
-
-https://user-images.githubusercontent.com/60795673/193196806-2f511f0e-dbdb-4322-a5cf-00525e504949.mp4  
+![gameplay](https://user-images.githubusercontent.com/52569392/193236541-ab9eaaed-eb43-4910-a188-265e19dc3c5d.gif)
 >Some ballroom goers performing a waltz
 
 ## Items
