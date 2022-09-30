@@ -49,7 +49,7 @@ Players earn points in two ways:
 - 2 Points for ending a turn on the control point
 - 1 Point for dealing fatal damage to another player  
    
-The game ends in 50 turns. At the end of the game, the victor is decided by whomever holds the most points. If there is a tie between 2 or more players, the one who holds the most gold wins. If there is a tie in gold, the winner shall be decided by a coin flip.  
+The game ends in **100** turns. At the end of the game, the victor is decided by whomever holds the most points. If there is a tie between 2 or more players, the one who holds the most gold wins. If there is a tie in gold, the winner shall be decided by a coin flip.  
 
 ## Classes
 Each class plays to a different style to dominate the Ballroom. There are 4 different stats for a class. **ALL** distances use Chebyshev distance.  
@@ -65,6 +65,9 @@ Each class plays to a different style to dominate the Ballroom. There are 4 diff
 | Wizard | 6      | 4      | 3     | 2     |  ![redWizardAttack](https://user-images.githubusercontent.com/60795673/192919959-77e5302f-532c-4f94-88b2-d9e74d356060.gif) |
 | Archer | 3      | 2      | 4     | 3     |  ![redArcherAttack](https://user-images.githubusercontent.com/60795673/192920145-60a8f18e-0ba7-4537-aa14-a06c8b7ffbcf.gif) |
 
+
+https://user-images.githubusercontent.com/60795673/193196806-2f511f0e-dbdb-4322-a5cf-00525e504949.mp4  
+>Some ballroom goers performing a waltz
 
 ## Items
 Items may be purchased with gold at a player's spawn location and provides buffs and effects to assist in battle. Only one item can be held at any time. Upon dying, the player will lose any item held at the time.  
