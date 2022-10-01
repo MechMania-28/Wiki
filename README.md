@@ -73,8 +73,8 @@ While Speed uses Manhattan Distance.
 | Class  | Health | Damage | Speed | Range |       |  
 |--------|--------|--------|-------|-------|-------|
 | Knight | 9      | 6      | 2     | 1     |  ![redKnightAttack](https://user-images.githubusercontent.com/60795673/192919558-6ab0eebc-bf19-4c16-ade3-27bf91b9fcb6.gif) |
-| Wizard | 6      | 4      | 3     | 2     |  ![redWizardAttack](https://user-images.githubusercontent.com/60795673/192919959-77e5302f-532c-4f94-88b2-d9e74d356060.gif) |
-| Archer | 3      | 2      | 4     | 3     |  ![redArcherAttack](https://user-images.githubusercontent.com/60795673/192920145-60a8f18e-0ba7-4537-aa14-a06c8b7ffbcf.gif) |
+| Wizard | 6      | 5      | 3     | 2     |  ![redWizardAttack](https://user-images.githubusercontent.com/60795673/192919959-77e5302f-532c-4f94-88b2-d9e74d356060.gif) |
+| Archer | 3      | 3      | 4     | 3     |  ![redArcherAttack](https://user-images.githubusercontent.com/60795673/192920145-60a8f18e-0ba7-4537-aa14-a06c8b7ffbcf.gif) |
 
 ![gameplay](https://user-images.githubusercontent.com/52569392/193236541-ab9eaaed-eb43-4910-a188-265e19dc3c5d.gif)
 >Some ballroom goers performing a waltz
