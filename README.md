@@ -99,8 +99,6 @@ For the competition, you’ll need to have the following things installed:
 
 - Java 11. This will allow you to run the game engine locally, so you can test your code before you push it.
 
-- [Node.js](https://nodejs.org/en/), (version 18.9+). Once you have that installed, try running `npm i -g mechmania`. The package can be found [here](https://www.npmjs.com/package/mm28), and when you’re able to run `mm28 help`, you know you'll have downloaded it correctly. From there, you can register a team by doing `mm register`. We ask that you only register once per team.
-
 If you need help, please ask us in the Discord #ask-a-question-here channel. We'll be providing help throughout the competition!
 
 For basic questions, please run `mm28 help` before asking.
