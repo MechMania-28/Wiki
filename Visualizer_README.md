@@ -1,3 +1,6 @@
+https://www.mechmania.io/MM28%20html/MM28.html
+This is the link to a web based version of the visualizer
+
 The visualizer is how you will convert the JSONs produced by your bots and the engine into something more easily interpretable by you. You don't have to use it, but you would probably be making this competition significantly harder for yourself if you don't. So please, familiarize yourself with the basic guidelines.
 
 ## Contents
