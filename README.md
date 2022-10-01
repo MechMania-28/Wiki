@@ -98,7 +98,23 @@ For the competition, you’ll need to have the following things installed:
 - Python 3. This is one of the languages you can use to implement your bot.
 
 - Java 11. This will allow you to run the game engine locally, so you can test your code before you push it.
+   
+CLI: https://www.npmjs.com/package/mm28  
+- Make sure you have Node.js updated to v18.0+  
+- Open a new command prompt and run the following:   
+>npm install -g mm28 
+   
+to install the CLI  
+- You should now be able to run
+>mm28 help  
+   
+   This displays all the commands you can run! Remember to put mm28 before any commands  
+  
+Creating a team:  
+- Run mm28 register and answer the prompts to register your team  
+- Run mm28 login and input the name and password to log into your team  
+Please register only one team! If you need help, do not make another team, contact staff instead.  
 
-If you need help, please ask us in the Discord #ask-a-question-here channel. We'll be providing help throughout the competition!
+If you need help, please ask us in the Discord #ask-a-question-here channel. We'll be providing help throughout the competition!  
 
 For basic questions, please run `mm28 help` before asking.
