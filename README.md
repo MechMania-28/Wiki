@@ -58,8 +58,13 @@ Players earn points in two ways:
 The game ends in **100** turns. At the end of the game, the victor is decided by whomever holds the most points. If there is a tie between 2 or more players, the one who holds the most gold wins. If there is a tie in gold, the winner shall be decided by a coin flip.  
 
 ## Classes
-Each class plays to a different style to dominate the Ballroom. There are 4 different stats for a class. **ALL** distances use Chebyshev distance.  
-> D<sub>Chebyshev</sub> = max( |x<sub>2</sub> - x<sub>1</sub>|, |y<sub>2</sub> - y<sub>1</sub>| )
+Each class plays to a different style to dominate the Ballroom. There are 4 different stats for a class.  
+   Range uses Chebyshev distance.  
+> D<sub>Chebyshev</sub> = max( |x<sub>2</sub> - x<sub>1</sub>|, |y<sub>2</sub> - y<sub>1</sub>| )  
+ 
+While Speed uses Manhattan Distance.
+   > D<sub>Manhattan</sub> = |x<sub>2</sub> - x<sub>1</sub>| + |y<sub>2</sub> - y<sub>1</sub>|
+ 
 - Health: The amount of damage a player can sustain
 - Damage: The amount of damage a player's attack deals, 1 damage = 1 health  
 - Speed: The distance a player can move in a single turn  
