@@ -37,6 +37,8 @@ If at their spawn point, players can choose to buy an item. As a player can only
 ---
 
 - If a player is standing on their spawn point by the end of a turn, they will automatically heal to full health.  
+   
+- If two players move to the same tile, they will both be in that tile.
 
 - When a player’s health drops to zero, they die and respawn at their spawn point. A player will lose their currently held item upon death.
 
